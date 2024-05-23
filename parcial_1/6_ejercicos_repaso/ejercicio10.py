@@ -11,4 +11,5 @@ for i in range(15):
         reprobados += 1
         
 print(f"Aprobados: {aprobados}")
+
 print(f"Reprobados: {reprobados}")
