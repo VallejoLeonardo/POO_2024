@@ -30,5 +30,3 @@ while respuesta == "Si":
 promedio_calificaciones_finales = suma_calificaciones_finales / contador
 print("El promedio de la calificación final de los alumnos capturados es:", promedio_calificaciones_finales)
 
-print("Hola")
-
