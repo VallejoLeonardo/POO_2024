@@ -18,7 +18,7 @@ Las funciones pueden ser de 4 tipos
 """
 
 #Ejemplo 1 Crear una funcion para imprimir nombres de personas
-    #    1.- Funcion que no recibe parametros y no regresa valor 
+#    1.- Funcion que no recibe parametros y no regresa valor 
 def solicitarNombres():
     nombre=input("Ingresa el nombre completo: ")
 

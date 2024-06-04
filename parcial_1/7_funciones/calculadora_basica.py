@@ -31,7 +31,7 @@ from varias_funciones import *
 
 opcion=True
 while opcion:
-    os.system("clear")
+    os.system("cls")
     print("\n\t..::: CALCULADORA BÁSICA :::... \n 1.- Suma \n 2.- Resta \n 3.-Multiplicacion \n 4.- División \n 5.- SALIR ")
     opcion=input("\t Elige una opción: ").upper()
 
@@ -42,4 +42,4 @@ while opcion:
      esperaTecla()
     else:
       opcion=False
-      print("Gracias por utilizar el sistema ...")
+      print("Gracias por utilizar el sistema...")
