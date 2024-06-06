@@ -10,7 +10,7 @@ os.system("cls")
 # Ejemplo de uso
 peliculas = []
 while True:
-    print("\nMENU DE OPCIONES")
+    print("\n..::MENU DE OPCIONES::..\n")
     print("1. Agregar pelicula")
     print("2. Remover pelicula")
     print("3. Consultar peliculas")
