@@ -10,6 +10,6 @@ def remover_pelicula(pelicula, lista_peliculas):
         print("La pelicula no se encuentra en la lista.")
 
 def consultar_peliculas(lista_peliculas):
-    print("Lista de peliculas:")
+    print("\n..::Lista de peliculas::..\n")
     for pelicula in lista_peliculas:
         print(pelicula)
