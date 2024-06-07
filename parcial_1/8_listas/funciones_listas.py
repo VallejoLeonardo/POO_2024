@@ -55,6 +55,49 @@ for i in agenda:
    print(f"{agenda.index(i)+1}.- {i}")
 
 
+paises=["Mexico","USA","Brasil","Japon"]
+numeros=[23,34,12,12.55,0.100]
+texto=["Hola",True,23,3.141516]
 
+#ordenar lista
+print(paises)
+paises.sort()
+print(paises)
 
+print(numeros)
+numeros.sort()
+print(numeros)
 
+#añadir elemenos a la lista
+print(texto)
+texto.insert(len(texto),"True")
+print(texto)
+texto.insert(len(texto),True)
+print(texto)
+texto.append(False)
+print(texto)
+
+#eliminar elementos de la lista
+print(numeros)
+numeros.remove(32)
+
+#Dar vuela a la lista
+print(numeros)
+numeros.reverse()
+print(numeros)
+
+#Buscar un dato en la lista
+respuesta="Brasil" in paises
+print(respuesta)
+
+#cuantas veces aparece un valor en la lista
+print(numeros)
+numeros.append(23)
+cuantos = numeros.count(0)
+print(numeros)
+print(f"hay {cuantos}")
+
+#unir listas
+print(paises)
+paises.extend(numeros)
+print(paises)
