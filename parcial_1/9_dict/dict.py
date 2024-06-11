@@ -29,7 +29,7 @@ print(alumnos)
 
 
 #Actualizar elementos
-alumnos.update({"telefono":6182334567})
+alumnos.update({"telefono":6182334568})
 print(alumnos)
 
 #Eliminar elementos

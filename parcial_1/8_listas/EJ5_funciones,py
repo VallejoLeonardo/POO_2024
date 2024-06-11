@@ -26,7 +26,7 @@ while True:
     elif opcion == "3":
         consultar_peliculas(peliculas)
     elif opcion == "4":
-        print("Saliendo del programa...")
+        print("Saliendo del programa..")
     else:
         print("Opcion invalida. Por favor ingrese una opcion valida.")
         

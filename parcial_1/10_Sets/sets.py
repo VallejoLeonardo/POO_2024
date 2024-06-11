@@ -7,7 +7,7 @@
   Set es una colección desordenada, inmutable* y no indexada. No hay miembros duplicados.
 """
 
-personas={"Ramiro","Choche","Lupe"}
+personas={"Ramirez","Choche","Lupe"}
 
 print(personas)
 

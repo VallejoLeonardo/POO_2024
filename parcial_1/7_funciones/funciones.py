@@ -99,7 +99,7 @@ def obtener_informacion_paciente():
 
 
 def mensaje_bienvenida():
-    return "¡Bienvenido al sistema de registro de pacientes!"
+    return "¡Bienvenido al sistema de pacientes!"
 
 print(mensaje_bienvenida())
 paciente_info = obtener_informacion_paciente()

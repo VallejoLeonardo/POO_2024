@@ -15,7 +15,7 @@ except:
     
 #Ejemplo 2 Cuando se solicita un numero y se ingresa otra cosa
 try:
-    numero=input("Dame un numero entero")
+    numero=input("Tecle un numero entero")
     if numero>0:
         print("El numero entero es positivo")   
     else:

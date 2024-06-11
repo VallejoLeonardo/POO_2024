@@ -42,4 +42,4 @@ while opcion:
      esperaTecla()
     else:
       opcion=False
-      print("Gracias por utilizar el sistema...")
+      print("Gracias por usar el sistema...")
